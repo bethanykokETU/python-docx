@@ -34,4 +34,4 @@ class Svg(BaseImageHeader):
         """
         
 
-        return cls()
+        return cls(100, 100, 72, 72)
